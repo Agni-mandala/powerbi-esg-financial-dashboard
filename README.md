@@ -21,7 +21,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
   - `CarbonEmissions`, `Region`, `Industry`, `Year`
   - `ESG_Environmental`, `ESG_Social`, `ESG_Governance`
  
-> [ESG & Financial Performance Dataset]([https://www.kaggle.com/...](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset))
+[ESG & Financial Performance Dataset]([https://www.kaggle.com/...](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset))
 
 ---
 
@@ -103,7 +103,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
 - **Technology** sector has the highest **Profit Margin (19%)**
 - Market Cap and Revenue are strongest in large-cap industries
 
-### 🌱 ESG & Emissions
+### ESG & Emissions
 - **Technology & Finance** have perfect **Environmental scores**
 - **Energy sector** has highest carbon emissions but not the highest revenue
 - **Consumer Goods & Tech** lead in Social scores
@@ -122,7 +122,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
 
 ---
 
-## ✅ Deliverables
+## Deliverables
 
 - **Two-Page Power BI Dashboard**
 - Interactive filters & visualizations
