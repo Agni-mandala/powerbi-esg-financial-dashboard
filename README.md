@@ -56,7 +56,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
 - **Year Slicer**: Horizontal Tile layout
 - **Industry Slicer**: Vertical List
 - **Region Slicer**: Vertical List
-- **Company Name Slicer**: Set to Dropdown with Search enabled 🔍
+- **Company Name Slicer**: Set to Dropdown with Search enabled
 
 ---
 
