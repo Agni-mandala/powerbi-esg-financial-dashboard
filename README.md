@@ -21,7 +21,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
   - `CarbonEmissions`, `Region`, `Industry`, `Year`
   - `ESG_Environmental`, `ESG_Social`, `ESG_Governance`
  
-[ESG & Financial Performance Dataset]([https://www.kaggle.com/...](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset))
+[Company ESG Financial Dataset on Kaggle](https://www.kaggle.com/datasets/shriyashjagtap/esg-and-financial-performance-dataset)
 
 ---
 
