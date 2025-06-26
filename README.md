@@ -107,7 +107,7 @@ This project uses Power BI to build an **interactive dashboard** that helps **bu
 - **Technology & Finance** have perfect **Environmental scores**
 - **Energy sector** has highest carbon emissions but not the highest revenue
 - **Consumer Goods & Tech** lead in Social scores
-- ⚖Governance scores are higher in **Consumer-facing industries**
+- Governance scores are higher in **Consumer-facing industries**
 
 ---
 
